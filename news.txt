@@ -1,0 +1,4 @@
+Added Amzux News Feed 
+Fixed Bluetooth issue 
+& now thinking to remove KDE Build
+
