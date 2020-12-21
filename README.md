@@ -6,5 +6,5 @@ sometimes this will be maybe helpfull for quick fixes
 
 # Installing
 
-`Amzy -di NewsFeed`
+`Amzy --install newsbro`
 

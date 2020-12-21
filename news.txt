@@ -1,4 +1,12 @@
 Added Amzux News Feed 
 Fixed Bluetooth issue 
 & now thinking to remove KDE Build
+~Rebuilted Amzy 
 
+#INSTALLING
+sudo Amzy -di Amzy
+sudo Amzy --update
+
+#usage
+run
+Amzy --help
