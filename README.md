@@ -6,5 +6,6 @@ sometimes this will be maybe helpfull for quick fixes
 
 # Installing
 
+
 `Amzy --install newsbro`
 
