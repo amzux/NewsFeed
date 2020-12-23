@@ -10,3 +10,10 @@ sudo Amzy --update
 #usage
 run
 Amzy --help
+
+#stability
+Now Amzy is very stable
+~Package Download Pause, Resume
+~Install, Remove option
+~Packages Name & list
+
